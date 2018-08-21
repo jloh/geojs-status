@@ -4,8 +4,9 @@ title: Issue with web app
 date: 2018-08-21T01:09:58.555Z
 resolvedWhen: ''
 Affected:
-  - gateway
+  - Gateway
   - API
+  - Media Proxy
 severity: down
 ---
 _Investigating_ - This now seem to impact the API as well {{< track "2018-08-21 11:14:00" >}}
