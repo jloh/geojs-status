@@ -2,7 +2,7 @@
 section: issue
 title: Issue with web app
 date: 2018-08-21T01:09:58.555Z
-resolved: true
+resolved: false
 resolvedWhen: 2018-08-21T03:00:00.000Z
 Affected:
   - Gateway
