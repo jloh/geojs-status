@@ -4,7 +4,7 @@ title: Issue with web app
 date: 2018-08-21T01:09:58.555Z
 resolvedWhen: ''
 Affected:
-  - Gateway
+  - gateway
   - API
 severity: down
 ---
